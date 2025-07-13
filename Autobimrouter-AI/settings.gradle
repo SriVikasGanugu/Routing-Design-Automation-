@@ -1,0 +1,3 @@
+rootProject.name = 'freerouting'
+include 'docs' // Include the 'docs' directory if it is part of the build
+

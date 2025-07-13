@@ -1,0 +1,12 @@
+# What is a Git Mailmap file? https://git-scm.com/docs/gitmailmap
+
+# Syntax:
+
+# Actual Name <actual@email.com> Committed Name <committed@email.com>
+
+Austin Kwon <askwon@asu.edu> Austin Kwon <austin.kwon2016@gmail.com>
+Austin Kwon <askwon@asu.edu> akwon20 <austin.kwon2016@gmail.com>
+Satvik Chemudupati <schemudu@asu.edu> SatvikChemudupati <schemudu@asu.edu>
+Satvik Chemudupati <schemudu@asu.edu> SatvikChemudupati <satvikch98@gmail.com>
+Sri Vikas Ganugu <sganugu@asu.edu> SriVikasGanugu <sganugu@asu.edu>
+Sri Vikas Ganugu <sganugu@asu.edu> SriVikasGanugu <srivikas650@gmail.com>
